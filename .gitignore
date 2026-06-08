@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# venv
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 环境变量与密钥
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+
+# 数据/缓存
+data/
+workspaces/
+*.db
+*.sqlite
+
+# logs
+logs/
+*.log
+
+# AgentScope runtime
+.agentscope/
+
+# 临时
+tmp/
+*.tmp
