@@ -46,3 +46,4 @@ logs/
 # 临时
 tmp/
 *.tmp
+.env.bak
